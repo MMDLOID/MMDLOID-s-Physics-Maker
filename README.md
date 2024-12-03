@@ -1,7 +1,5 @@
 # MMDLOID's Physics Maker
 
-![MMDLOID's Physics Maker Logo](logo.png)
-
 **MMDLOID's Physics Maker** is a powerful and easy-to-use tool designed to simplify the process of creating physics for MMD (MikuMikuDance) models.
 
 ## Features
