@@ -1,5 +1,7 @@
 # MMDLOID's Physics Maker
 
+![MMDLOID's Physics Maker Logo](logo.png)
+
 **MMDLOID's Physics Maker** is a powerful and easy-to-use tool designed to simplify the process of creating physics for MMD (MikuMikuDance) models.
 
 ## Features
@@ -17,7 +19,7 @@
 ### Installation
 1. Download the latest version of **MMDLOID's Physics Maker** from the [Releases](#) page.
 2. Extract the downloaded `.zip` file to your desired location.
-3. Double-click the `MMDLOIDs_Physics_Maker.exe` file to start the software.
+3. Double-click the `PhysicsMaker.exe` file to start the software.
 
 ### Usage
 1. Launch the software by running the `.exe` file.
