@@ -26,7 +26,7 @@ PyInstaller-generated executables might be flagged by antivirus programs due to 
 - An MMD model file to work on.
 
 ### Installation
-1. Download the latest version of **MMDLOID's Physics Maker** from the [Releases](#) page.
+1. Download the latest version of **MMDLOID's Physics Maker** from the [Releases](https://github.com/MMDLOID/MMDLOIDs-Physics-Maker/releases/) page.
 2. Extract the downloaded `.zip` file to your desired location.
 3. Double-click the `MMDLOIDs_Physics_Maker.exe` file to start the software.
 
@@ -83,7 +83,7 @@ PyInstaller-generated executables might be flagged by antivirus programs due to 
 
 ## Downloads
 
-Get the latest version from the [Releases](#) page.
+Get the latest version from the [Releases](https://github.com/MMDLOID/MMDLOIDs-Physics-Maker/releases/) page.
 
 ---
 
