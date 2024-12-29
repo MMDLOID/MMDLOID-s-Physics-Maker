@@ -71,7 +71,7 @@ PyInstaller-generated executables might be flagged by antivirus programs due to 
 3. Select the correct type (Body or Joint) and save the template with an appropriate name.
 
 ### CSV Row Checker
-- Use the **CSV Row Checker** in the **Homu UI** to verify the total number of rows in a template. This ensures compatibility and accuracy.
+- Use the **CSV Row Checker** in the **Home UI** to verify the total number of rows in a template. This ensures compatibility and accuracy.
 
 ### Row Input Cycle
 - The software may prompt you for the desired number of rows during certain operations:
