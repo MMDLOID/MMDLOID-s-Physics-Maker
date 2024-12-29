@@ -3,6 +3,10 @@
 **MMDLOID's Physics Maker** is a powerful and easy-to-use tool designed to simplify the process of setting up physics for MMD (MikuMikuDance) models.
 
 ---
+## Dislcaimer
+
+PyInstaller-generated executables might be flagged by antivirus programs due to their structure, which can resemble malware. This is a common false positive caused by the way executables are packed. If you encounter issues, consider whitelisting the file or verifying the source code.
+---
 
 ## Features
 
