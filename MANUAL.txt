@@ -1,0 +1,55 @@
+Disclaimer: This software is completely standalone and is not a PMX-Editor plugin.
+
+The Basics:
+This software allows you to accomplish a lot. It is designed to make it easier to set up physics on MMD models without spending excessive time. You can expect more features as the software is updated. For the latest updates, please refer to: https://github.com/MMDLOID/MMDLOIDs-Physics-Maker
+
+Step 1: Prepare Files in PMX-Editor
+Open the model in PMX-Editor that you want to edit the physics for.
+Navigate to the "Body" and "Joint" tabs.
+While holding Shift, select only the affected bodies and joints you want to edit. (Ensure they are in the proper order, from top to bottom. MMD models should always have their physics ordered correctly.)
+Once selected, right-click and choose Save CSV.
+Save the file in the appropriate folder based on its type: Body CSV or Joint CSV.
+Take note of how many bones, bodies, or joints are affected (e.g., 20).
+Now that you have your CSV files for the affected components (e.g., 20 bones), proceed to the next step.
+
+Step 2: Use the Physics Calculator
+You now have your base CSV file. Next, apply a template to it.
+Notice that the rows in your CSV file (e.g., 20 rows) might differ from the template file provided by MMDLOID (e.g., "Hibiki Template.csv"). If the template has fewer rows, follow this process:
+In the Homu UI, click on Physics Calculator.
+Load your Body or Joint CSV file into the Extend section of the Physics Calculator.
+Enter the total number of rows needed (e.g., 20).
+The calculator will automatically generate the extended CSV file.
+Now, you should have the properly extended template files ready for use.
+
+Step 3: Apply the Template
+In the Homu UI, click on Edit CSV to open the CSV editor.
+The process is the same for both Body and Joint files, but make sure you load the correct template for each type:
+For Body CSV files:
+Click Edit Body CSV.
+A graphical window will appear.
+Select the Body template file you extended using the Physics Calculator.
+Then, select the Body CSV file exported from PMX-Editor.
+Save the output file to a desired location.
+Repeat the process for Joint CSV files.
+Step 4: Import the CSV File into PMX-Editor
+Open PMX-Editor and navigate to the appropriate tab (Body or Joint).
+Select any random Body or Joint, right-click on it, and choose Import CSV.
+Import the final edited CSV file.
+Repeat for the other type (Body or Joint).
+Congratulations! The process is complete.
+
+Extra Features
+Creating Your Own Templates:
+You may want to save your custom physics as a template for use with other models. To do so:
+
+Export the Body and Joint CSV files from PMX-Editor.
+In the Homu UI, click Create Template.
+Select the correct type and save the template with an appropriate name.
+CSV Row Checker:
+In both the Home UI and Calculator, there is a function under File called CSV Row Checker. This tool lets you verify the total number of rows in a template file. Note that it only supports template files.
+
+Row Input Cycle:
+Occasionally, the software will ask you for the desired number of rows. For example:
+
+If you're editing a single line of physics, input 1.
+For physics systems like skirts, input the total number of vertical physics lines.
