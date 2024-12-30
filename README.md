@@ -42,13 +42,13 @@ PyInstaller-generated executables might be flagged by antivirus programs due to 
 6. Note the total number of rows in your exported file (e.g., 20).
 
 ### Step 2: Use the Physics Calculator
-1. Launch the Physics Calculator in the **Homu UI**.
+1. Launch the Physics Calculator in the **Home UI**.
 2. Load your exported CSV file into the "Extend" section.
 3. Enter the total number of rows required (e.g., 20).
 4. The calculator will automatically generate an extended CSV file.
 
 ### Step 3: Apply the Template
-1. In the **Homu UI**, click on **Edit CSV**.
+1. In the **Home UI**, click on **Edit CSV**.
 2. For each file type (Body or Joint):
    - Click **Edit Body CSV** (or the respective option for Joints).
    - Select the extended template file.
@@ -67,7 +67,7 @@ PyInstaller-generated executables might be flagged by antivirus programs due to 
 
 ### Create Your Own Templates
 1. Export the Body and Joint CSV files from PMX-Editor.
-2. In the **Homu UI**, click on **Create Template**.
+2. In the **Home UI**, click on **Create Template**.
 3. Select the correct type (Body or Joint) and save the template with an appropriate name.
 
 ### CSV Row Checker
